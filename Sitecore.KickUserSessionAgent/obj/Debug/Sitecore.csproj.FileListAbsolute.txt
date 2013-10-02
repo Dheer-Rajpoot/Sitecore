@@ -1,0 +1,12 @@
+C:\Users\Dheer\Documents\Visual Studio 2012\Projects\Sitecore\Sitecore\bin\Debug\Sitecore.Kernel.dll
+C:\Users\Dheer\Documents\Visual Studio 2012\Projects\Sitecore\Sitecore\bin\Debug\Sitecore.Zip.dll
+C:\Users\Dheer\Documents\Visual Studio 2012\Projects\Sitecore\Sitecore\bin\Debug\Sitecore.Logging.dll
+C:\Users\Dheer\Documents\Visual Studio 2012\Projects\Sitecore\Sitecore\bin\Debug\Sitecore.Kernel.xml
+C:\Users\Dheer\Documents\Visual Studio 2012\Projects\Sitecore\Sitecore\bin\Debug\Sitecore.KickUserSessionAgent.dll
+C:\Users\Dheer\Documents\Visual Studio 2012\Projects\Sitecore\Sitecore\bin\Debug\Sitecore.KickUserSessionAgent.pdb
+C:\Users\Dheer\Documents\Visual Studio 2012\Projects\Sitecore\Sitecore\obj\Debug\Sitecore.KickUserSessionAgent.dll
+C:\Users\Dheer\Documents\Visual Studio 2012\Projects\Sitecore\Sitecore\obj\Debug\Sitecore.KickUserSessionAgent.pdb
+C:\Users\Dheer\Documents\Visual Studio 2012\Projects\Sitecore.KickUserSessionAgent\bin\Debug\Sitecore.KickUserSessionAgent.dll
+C:\Users\Dheer\Documents\Visual Studio 2012\Projects\Sitecore.KickUserSessionAgent\bin\Debug\Sitecore.KickUserSessionAgent.pdb
+C:\Users\Dheer\Documents\Visual Studio 2012\Projects\Sitecore.KickUserSessionAgent\obj\Debug\Sitecore.KickUserSessionAgent.dll
+C:\Users\Dheer\Documents\Visual Studio 2012\Projects\Sitecore.KickUserSessionAgent\obj\Debug\Sitecore.KickUserSessionAgent.pdb
